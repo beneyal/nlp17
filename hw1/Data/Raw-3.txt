@@ -1,0 +1,3 @@
+This page appears when Google automatically detects requests coming from your computer network which appear to be in violation of the Terms of Service. The block will expire shortly after those requests stop.
+This traffic may have been sent by malicious software, a browser plug-in, or a script that sends automated requests. If you share your network connection, ask your administrator for help — a different computer using the same IP address may be responsible. Learn more
+Sometimes you may see this page if you are using advanced terms that robots are known to use, or sending requests very quickly.

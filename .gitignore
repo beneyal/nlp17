@@ -1,0 +1,7 @@
+**/__pycache__
+**/.ipynb_checkpoints
+**/*.bin
+**/*.html
+**/*.pkl
+hw1/NLTKPOSTagging.ipynb
+hw2/TFLearn.ipynb
